@@ -1,0 +1,43 @@
+.Home-container{
+    position: sticky;
+    display: flex;
+    gap: 4rem;
+    justify-content: space-between;
+    overflow-x: auto;
+}
+.Home-card{
+    border: 1px solid black;
+    margin: 20px 0px 20px 20px;
+    
+}
+.Home-cardimg{
+    margin: 10px 0px 10px 20px;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 200px;
+}
+.Home-Lapcard{
+    border: 1px solid black;
+    margin: 30px 0px 20px 20px;
+}
+.Home-Lapimg{
+    margin: 20px 0px 20px 0px;
+   width: 100%;
+   height: 130px;
+}
+.input{
+    background-color: whitesmoke;
+}
+.Category-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.carousel{
+    margin-top: 30px;
+}
+.title{
+    margin-top: 10px;
+    border: 1px solid grey;
+    font-weight: 800;
+}

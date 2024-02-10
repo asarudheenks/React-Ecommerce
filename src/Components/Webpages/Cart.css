@@ -1,0 +1,33 @@
+.cart{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+.cart-card{
+    margin: 30px 0px 20px 0px;
+    border: 2px solid black;
+    height: 500px;
+}
+.cart-img{
+    margin: 20px 10px 10px 10px;
+    width: 270px;
+}
+.buttons{
+    
+    margin: 20px 0px 10px 10px;
+}
+.buy-btn{
+    margin-left:30px ;
+}
+.specs{
+    margin: 30px 0px 10px 0px;
+    border: 1px solid black;
+    overflow-y: auto;
+   
+}
+.Empty{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 400px;
+}

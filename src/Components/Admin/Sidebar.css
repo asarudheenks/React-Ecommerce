@@ -1,0 +1,40 @@
+.Adminname{
+    height: 50px;
+}
+.admincard1{
+    width: 230px;
+    height: 150px;
+    background-color: grey;
+    text-align: center;
+}
+.admincard2{
+    width: 230px;
+    height: 150px;
+    background-color: grey;
+    text-align: center;
+}
+.admincard3{
+    width: 230px;
+    height: 150px;
+    background-color: grey;
+    text-align: center;
+}
+.admincard4{
+    width: 230px;
+    height: 150px;
+    background-color: grey;
+    text-align: center;
+}
+.nav-item:hover{
+    background-color: aqua;
+}
+.link{
+    color: white;
+}
+
+
+
+
+
+
+
